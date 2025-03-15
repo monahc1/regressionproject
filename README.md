@@ -52,11 +52,17 @@ The dataset used is the Auto MPG dataset, which can be automatically loaded via 
 - Origin
 
 ## Collaborators :
+
+
 -Malih Assaad
+
 -Hussein Dakroub
+
 -Mona El Hajj Chehade
 
 ##Instructor:
+
+
 -Professor Youssef Bakouny
 
 
