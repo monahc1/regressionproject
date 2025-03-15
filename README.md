@@ -6,7 +6,6 @@ This project utilizes TensorFlow and Keras Tuner to perform regression analysis 
 
 ## Installation
 
-Ensure that you have Python installed on your machine. You can download it from [python.org](https://www.python.org/downloads/).
 
 To set up the project environment, run the following commands:
 
