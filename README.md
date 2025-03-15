@@ -15,15 +15,15 @@ pip install tensorflow
 pip install keras-tuner
 pip install pandas
 pip install numpy
-```
+
 
 ## Usage
 
 To run the notebook, navigate to the project directory and start Jupyter Notebook:
 
-```bash
+
 jupyter notebook
-```
+
 
 Open `projetregressionversion2.1.ipynb` and execute the cells sequentially to see the results of the regression analysis.
 
