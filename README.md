@@ -60,7 +60,7 @@ The dataset used is the Auto MPG dataset, which can be automatically loaded via 
 
 -Mona El Hajj Chehade
 
-##Instructor:
+## Instructor:
 
 
 -Professor Youssef Bakouny
